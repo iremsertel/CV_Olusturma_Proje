@@ -7,8 +7,8 @@ Linux dersi kapsamında yapılan bir projedir.
 - İlk başta programımızı komut satırından çalıştırıyoruz.
 - Çalıştırdıktan sonra karşımıza ilk olarak `Bölümünüzü Giriniz` diye bir ekran açılıyor.
 - İkinci olarak `Bilgi Ekle` ekranı açılıyor.Bu kısımda Adınız,Soyadınız,Yaşadığınız Yer, Mail adresiniz, Github ve Linkedin linki,Fotoğraf linki ve en son Telefon bilginiz isteniyor.Ayrıca bu kısımda CV tasarımınız için `mor` veya `mavi` seçeneklerinden birini seçmeniz bekleniyor.
-- Sonrasında 'İlgi Alanlarınız' ekranı açılıyor.Sizden iki ilgi alanınızı girmeniz bekleniyor.
-- İlgi alanlarını girdikten sonra bunlarla 'ne kadar ilgili olduğunuza dair bir değer' belirleme ekranı çıkıyor. 
+- Sonrasında `İlgi Alanlarınız` ekranı açılıyor.Sizden iki ilgi alanınızı girmeniz bekleniyor.
+- İlgi alanlarını girdikten sonra bunlarla `ne kadar ilgili olduğunuza dair bir değer` belirleme ekranı çıkıyor. 
 - Daha sonra `Proje ve Deneyimleriniz` ve `Eğitim Bilgileriniz` hakkında birer ekran karşınıza çıkıyor.
 - Bütün bilgiler kullanıcıdan alındıktan sonra `mor.html` yada `mavi.html` adlı dosyalardan biri program tarafından oluşturulmuş oluyor.
 - Böylece kullanıcının CV dosyası hazırlanıyor.
@@ -36,7 +36,7 @@ bash proje_cv.sh
 
 ![İlgiAlanı](https://github.com/iremsertel/CV_Olusturma_Proje/blob/main/Resimler/Ekran3.PNG)
 
-`İlgi Alanı Değeri Belirleme Ekranı:`
+`İlgi Alanı Değeri Belirleme Ekranları:`
 
 ![İlgiAlanıDeger](https://github.com/iremsertel/CV_Olusturma_Proje/blob/main/Resimler/Ekran4.PNG)
 
